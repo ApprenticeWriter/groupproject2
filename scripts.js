@@ -10,7 +10,7 @@ let questions = [
 	{question:"Dr. Drawert has 19 students in CSCI335",
 		value:19},
    	{question:"Dr. Cameron has 47 students in CSCI498",
-		value:47}
+		value:47},
 	{question:"Prof. Johnson has 32 students in CSCI338",
 		value:32},
 	{question:"Dr. Shaeffer has 26 students in CSCI373",
